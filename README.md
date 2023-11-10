@@ -1,0 +1,1 @@
+This is a Codecademy project. I will be fixing a broken version of a website while making it responsive.
